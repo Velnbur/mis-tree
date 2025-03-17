@@ -1,4 +1,4 @@
-# :some: `mis` Maximum Independent Set in Trees Python Package
+# 🌳 `mis` Maximum Independent Set in Trees Python Package
 
 This repository contains one of the possible solutions to the Maximum Independent Set (MIS) problem using dynamic programming. The `max_independent_set` function takes a tree represented as an adjacency list and a root node, and returns the size of the maximum independent set in the tree.
 
